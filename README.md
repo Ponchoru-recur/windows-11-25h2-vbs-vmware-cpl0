@@ -511,6 +511,3 @@ omarchy
 
 > Documented Windows 11 25H2 Home VBS/Hyper-V issue affecting VMware Workstation; includes evidence, diagnostics, rollback, and a machine-verified WindowsHello DeviceGuard workaround.
 
-## License suggestion
-
-For a documentation/research repository, **CC BY 4.0** is a good fit if you want others to freely reuse the write-up with attribution. A code-oriented license such as MIT is better only if the repository later contains scripts/tools intended for reuse.
